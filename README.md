@@ -1,2 +1,2 @@
-# 3d_groningen
+# 3D_groningen
 A python script to load and visualize 3D displacement data over Groningen
