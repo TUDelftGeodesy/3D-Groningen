@@ -9,10 +9,13 @@ Reference: Brouwer, Wietske S., and Ramon F. Hanssen. "Estimating three-dimensio
 - pandas
 - matplotlib
 - contextily
+- geopandas
+- pykrige
 
 # Data
 To generate the displacement vectord and inlcuding error ellipses you need the following dataset:
 
 - A set of estiamted displacement parameters including 6 variance and covariance values
+- Optionally: a shapefile of the Groningen reservoir
 
 An example set of parameters is available through 4TU.ResearchData. Users can download the data and the metadata from that repository to plot the corresponsing displacement vectors using this repository. 
