@@ -18,4 +18,5 @@ To generate the displacement vectord and inlcuding error ellipses you need the f
 - A set of estiamted displacement parameters including 6 variance and covariance values
 - Optionally: a shapefile of the Groningen reservoir
 
-An example set of parameters is available through 4TU.ResearchData. Users can download the data and the metadata from that repository to plot the corresponsing displacement vectors using this repository. 
+An example set of parameters is available through 4TU.ResearchData, with doi: https://doi.org/10.4121/34394aab-6139-4397-9235-f9f041ac9299
+Users can download the data and the metadata from that repository to plot the corresponsing displacement vectors using this repository. 
